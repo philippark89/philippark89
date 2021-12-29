@@ -1,8 +1,7 @@
 ## Hi there, I am Taeju 👋
 
-Hi, I am a computer science student who will be graduated on this Fall 21.
 - 🌱 I’m currently learning Java and Python.
-- 🔭 I’m currently looking for an intership or a full-time job.
+- 🔭 I’m currently looking for a full-time job.
 - 🤔 I’m looking for help with code efficiently.
 - 🤖 I'm interested in making BOTs such as Discord and games
 - 😄 Pronouns: He/His.
