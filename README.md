@@ -1,7 +1,7 @@
 ## Hi there, I am Taeju 👋
 
-- 🌱 I’m currently learning Java and Python.
-- 🔭 I’m currently looking for a full-time job.
+- 🌱 I’m currently learning Java, Python, and Ruby.
+<!-- - 🔭 I’m currently looking for a full-time job. -->
 - 🤔 I’m looking for help with code efficiently.
 - 🤖 I'm interested in making BOTs such as Discord and games
 - 😄 Pronouns: He/His.
