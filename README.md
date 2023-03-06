@@ -1,8 +1,8 @@
 ## Hi there, I am Taeju 👋
 
-- 🌱 I’m currently learning Java, Python, and Ruby.<!-- - 🔭 I’m currently looking for a full-time job. -->
-- 🤔 I’m looking for help with code efficiently.
-- 🤖 I'm interested in making BOTs such as Discord and games
+- 🌱 I’m very interested in to learn and work on either Java or Python.
+- 🤖 I'm interested in making BOTs such as Discord and games.
+- 👯 I'm currently self-learning/working on web app.
 - 😄 Pronouns: He/His.
 - 📫 How to reach me: <a href="mailto:philippark89@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/taeju-park-97aa85100/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
