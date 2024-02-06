@@ -1,7 +1,7 @@
 ## Hi there, I am Taeju 👋
 
 - 🌱 I’m very interested in learning and working on Java, Python, and C#.
-- 🤖 I'm interested in Backend development, especially API and Server side.
+- 🤖 I'm interested in Backend development, especially API and DevOps.
 - 👯 I'm currently self-learning/working on the Web app. (<a href="http://taejupark.com">TJ's Playground</a>)
 - 😄 Pronouns: He/His.
 - 📫 How to reach me: <a href="mailto:philippark89@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/taeju-park-97aa85100/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
