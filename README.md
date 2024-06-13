@@ -1,8 +1,8 @@
 ## Hi there, I am Taeju 👋
 
-- 🌱 I’m very interested in learning and working on Java, Python, and IoC.
+- 🌱 I’m very interested in learning and working on Java, Python, and IaC.
 - 🤖 I'm interested in Backend development, especially API and DevOps.
-- 👯 I'm currently working on Web application via my own rbp4b. ~~(<a href="http://taejupark.com">TJ's Playground</a>)~~
+- 👯 I'm currently learning and working on managing cluster and server side. ~~(<a href="http://taejupark.com">TJ's Playground</a>)~~
 <!-- - 📫 How to reach me: <a href="mailto:philippark89@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/taeju-park-97aa85100/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philippark89&theme=merko&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
