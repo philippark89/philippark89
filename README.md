@@ -1,4 +1,6 @@
 ## Hi there, I am Taeju 👋
 
-- 🌱 I’m very interested in learning and working on Java, Python, and IaC.
-- 🤖 I'm interested in Backend development, especially API and DevOps.
+- 🌱 Passionate about building reliable and scalable cloud infrastructure
+- ⚙️ Hands-on experience with Terraform, CI/CD, and AWS ecosystems
+- 💻 Developing automation and backend services using Python and Go
+- 🤖 Particularly interested in backend API design and distributed systems
